@@ -12,6 +12,14 @@
 
 
   vesselvector uses the BVV model for final foveal positioning.
+  
+  
+  
+  Specific methods can be found in the literature Fovea localization by blood vessel vector in abnormal fundus images(https://so1.cljtscd.com/scholar?q=Fovea+localization+by+blood+vessel+vector+in+abnormal+fundus+images)
+
+
+
+  
 
   
   
